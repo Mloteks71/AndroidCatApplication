@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">KociaAplikacja</string>
+    <string name="title_photos">Zdjęcia</string>
+    <string name="title_facts">Fakty</string>
+    <string name="title_settings">Opcje</string>
+    <string name="button1_photos">Następny</string>
+    <string name="button2_photos">Lista</string>
+    <string name="button3_photos">Kategorie</string>
+    <string name="button21_photos">Zdjęcia</string>
+    <string name="button4_photos">Kategorie</string>
+    <string name="button_beng">Bengalski</string>
+    <string name="button_abys">Abysyński</string>
+    <string name="button_bali">Balijski</string>
+    <string name="button_birm">Birmański</string>
+    <string name="button_bomb">Bombajski</string>
+    <string name="button_bure">Burmski</string>
+    <string name="button_hima">Himalajski</string>
+    <string name="button_java">Jawajski</string>
+    <string name="button1_facts">Lista</string>
+    <string name="button2_facts">Fakt</string>
+    <string name="switch1">Żyroskop</string>
+    <string name="switch2">Czujnik światła</string>
+</resources>
